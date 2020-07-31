@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+My name is Thanaphon Sombonkaeo. You can call me boy. I'm 19 years old.
+#### 🎓 Education
+- I'm currently studying bachelor of Computer Science (English Program) at SIT KMUTT.
 <!--
 **boyplus/boyplus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
