@@ -1,18 +1,28 @@
 ### Hi there 👋
 My name is Thanaphon Sombonkaeo. You can call me boy. I'm 19 years old.
-#### 🎓 Education
-- I'm currently studying bachelor of Computer Science (English Program) at SIT KMUTT.
-<!--
-**boyplus/boyplus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Education
+- I'm currently studying bachelor of Computer Science (English Program) at SIT KMUTT (Sophomore).
+- I studied high school at Benjamarachutit Ratchabuti School.
+### 💻 Computer Science Skills
+#### 🔥 Proficient in
+- Algorithms and Data structure
+- C, C++, Java
+- HTML5, CSS3
+- Javascript
+- ReactJS and Redux
+#### 🌟 Familiar with
+- Mongodb
+- NodeJS
+- Python
+- Java Servlet
+#### 🔥 Experienced with
+- Docker
+- CI/CD
+#### 🔥 Other interests
+- Kubernetes
+- Machine Learning
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contact me
+mail: thanaphon.me@mail.kmutt.ac.th
+FB: https://www.facebook.com/thanaphon.sombunkaeo/
+IG: 'https://www.instagram.com/___thanaphon'
