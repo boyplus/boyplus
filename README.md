@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 My name is Thanaphon Sombonkaeo. You can call me boy. I'm 19 years old.
 ### 🎓 Education
 - I'm currently studying bachelor of Computer Science (English Program) at SIT KMUTT (Sophomore).
