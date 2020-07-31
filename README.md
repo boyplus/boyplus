@@ -6,4 +6,4 @@ My name is Thanaphon Sombonkaeo. You can call me boy. I'm 19 years old.
 ### 🔥 Interests
 - I'm interest in Algorithms and Fullstack web development. I'm familiar with ReactJS, Redux, Node, Mongodb, RBDMS.
 ### ✨ Fun facts
-- I'm army (Bangtan Boys fanclub) and my bias is Kim seok-jin.
+- I'm army (BTS fanclub) and my bias is Kim seok-jin.
