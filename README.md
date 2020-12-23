@@ -1,5 +1,5 @@
 # Hi there 👋
-My name is Thanaphon Sombonkaeo (Boy). I'm an ARMY, MOA (BTS, TXT fanclub) and my bias is Kim seok-jin, Choi Soobin.
+My name is Thanaphon Sombonkaeo (Boy). I'm an ARMY, MOA (BTS, TXT fanclub) and my biases are Kim seok-jin, Choi Soobin, and Ji Changmin.
 ### 🎓 Education
 - I'm currently studying bachelor of Computer Science at SIT KMUTT.
 ### 🔥 Interests
