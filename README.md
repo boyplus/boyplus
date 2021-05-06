@@ -7,5 +7,5 @@ My name is Thanaphon Sombonkaeo (Boy). I'm a MOARMY (BTS, and TXT fandom).
 ### 🔥 Experiences
 - Computer Oylmpiad Student (2 bronze medals from Thailand Olympiad in Informatic)
 - Content Creator of GDSC (Google Developer Student Club)
-### 👑 My K-Pop biases
+### 👑 K-Pop biases
 - Kim Seok-jin, Ji Changmin, Choi Soobin, Huening Kai, Kim Junkyu, Park Jihoon (Treasure)
