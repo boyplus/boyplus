@@ -5,6 +5,7 @@ My name is Thanaphon Sombonkaeo (Boy). I'm a MOARMY (BTS, and TXT fandom).
 ### 🔍 Interests
 - I'm interested in algorithms and full-stack development. I'm familiar with ReactJS, Flutter, NodeJS, MongoDB, RDBMS.
 ### 🔥 Experiences
+- Sofrware Engineer (Full-stack) intern at Agoda (Bangkok).
 - Front-end developer @ Alchemist, Business IT Solution Based Advisor
 - Freelance full-stack web developer @ KKP Cargo&Logistics
 - Content Creator of GDSC (Google Developer Student Club)
