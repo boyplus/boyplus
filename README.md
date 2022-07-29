@@ -7,7 +7,7 @@ My name is Thanaphon Sombonkaeo (Boy), a person who loves problem solving and fu
 - I'm interested in algorithms and full-stack development.
 - I'm familiar with ReactJS, Flutter, NodeJS, MongoDB, RDBMS.
 ### 🔥 Experiences
-- Sofrware Engineer (Full-stack) intern at Agoda (Bangkok).
+- Sofrware Engineer (full-stack) intern at Agoda (Bangkok).
 - Freelance front-end developer @ Alchemist, Business IT Solution Based Advisor.
 - Freelance full-stack web developer @ KKP Cargo&Logistics.
 - Content creator of GDSC KMUTT (Google Developer Student Club).
