@@ -1,11 +1,11 @@
 # Hi there 👋
 My name is Thanaphon Sombonkaeo (Boy), a person who loves problem solving and software development.
 ### 🎓 Education
-- I studied bachelor of Computer Science at SIT KMUTT.
+- I graduated in bachelor of Computer Science at SIT KMUTT (Thailand).
 - I studied exchange semester in ICT at Jamk University of Applied Sciences (Finland).
 ### 🔍 Interests
 - I'm interested in algorithms and software development.
-- I'm familiar with ReactJS, NodeJS, ASP.NET core 6, Typescript, GraphQL, PostgreSQL, Neo4j, MongoDB.
+- I'm familiar with ReactJS, NodeJS, ASP.NET core 8, Typescript, GraphQL, PostgreSQL, Neo4j, MongoDB.
 ### 🔥 Experiences
 - Associate Sofrware Engineer at Agoda (Bangkok) [June 2023 - Present]
 - Sofrware Engineer (full-stack) intern at Agoda (Bangkok) [June 2022 - May 2023]
@@ -16,4 +16,4 @@ My name is Thanaphon Sombonkaeo (Boy), a person who loves problem solving and so
 - Bronze medal from 13th Thailand Olympiad in Informatic.
 - Bronze medal from 14th Thailand Olympiad in Informatic.
 ### 👑 K-Pop biases
-- Ji Changmin, Kim Seok-Jin, Park Jihoon (Treasure), Huening Kai, Ham Wonjin.
+- Ji Changmin, Kim Seok-Jin, Kim Junkyu (Treasure).
