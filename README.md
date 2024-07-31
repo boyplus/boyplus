@@ -7,7 +7,7 @@ My name is Thanaphon Sombonkaeo (Boy), a person who loves problem solving and so
 - I'm interested in algorithms and software development.
 - I'm familiar with ReactJS, NodeJS, ASP.NET core 8, Typescript, GraphQL, PostgreSQL, Neo4j, MongoDB.
 ### 🔥 Experiences
-- Associate Sofrware Engineer at Agoda (Bangkok) [June 2023 - Present]
+- Sofrware Engineer at Agoda (Bangkok) [June 2023 - Present]
 - Sofrware Engineer (full-stack) intern at Agoda (Bangkok) [June 2022 - May 2023]
 - Freelance full-stack web developer @ KKP Cargo&Logistics. [Jan 2021 - May 2021]
 - Content creator @ GDSC KMUTT (Google Developer Student Club) [2020 - 2021]
