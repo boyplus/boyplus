@@ -5,7 +5,7 @@ My name is Thanaphon Sombonkaeo (Boy), a person who loves problem solving and so
 - I studied exchange semester in ICT at Jamk University of Applied Sciences (Finland).
 ### 🔍 Interests
 - I'm interested in algorithms and software development.
-- I'm familiar with ReactJS, NodeJS, ASP.NET core 8, Typescript, GraphQL, PostgreSQL, Neo4j, MongoDB.
+- I'm familiar with ReactJS, NodeJS, ASP.NET core, Typescript, GraphQL, PostgreSQL, Neo4j, MongoDB.
 ### 🔥 Experiences
 - Sofrware Engineer at Agoda (Bangkok) [July 2024 - Present]
 - Associate Sofrware Engineer at Agoda (Bangkok) [June 2023 - June 2024]
