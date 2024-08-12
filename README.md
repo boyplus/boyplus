@@ -9,7 +9,7 @@ My name is Thanaphon Sombonkaeo (Boy), a person who loves problem solving and so
 ### 🔥 Experiences
 - Sofrware Engineer at Agoda (Bangkok) [July 2024 - Present]
 - Associate Sofrware Engineer at Agoda (Bangkok) [June 2023 - June 2024]
-- Sofrware Engineer (full-stack) intern at Agoda (Bangkok) [June 2022 - May 2023]
+- Sofrware Engineer Intern at Agoda (Bangkok) [June 2022 - May 2023]
 - Freelance computer olympiad tutor at high school. [2020 - Present]
 #### 🏆 Award
 - Bronze medal from 13th Thailand Olympiad in Informatic.
